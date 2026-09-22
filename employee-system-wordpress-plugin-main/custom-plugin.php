@@ -1,5 +1,4 @@
 <?php 
-
 /*
  * Plugin name: Employee Management System
  * description: This is a CRUD Employee Management System
